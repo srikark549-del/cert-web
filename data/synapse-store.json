@@ -1,0 +1,30 @@
+{
+  "users": [],
+  "events": [
+    {
+      "id": "synapse-python-workshop",
+      "title": "Python Backend Engineering Workshop",
+      "category": "workshop",
+      "tagline": "Build APIs that ship",
+      "description": "Hands-on technical event.",
+      "organizer": "Synapse Club",
+      "dates": "Schedule announced soon",
+      "venue": "ACEEC Innovation Lab",
+      "targetAudience": "Students and developers",
+      "price": 0,
+      "capacity": 150,
+      "registeredCount": 0,
+      "topics": [
+        "Python",
+        "APIs",
+        "Testing"
+      ],
+      "schedule": [],
+      "speakers": [],
+      "isFlagship": true,
+      "createdAt": "2026-09-25T03:02:53.544106+00:00"
+    }
+  ],
+  "registrations": [],
+  "notifications": []
+}
